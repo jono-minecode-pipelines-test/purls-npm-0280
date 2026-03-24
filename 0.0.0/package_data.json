@@ -1,0 +1,37 @@
+{
+    "name": "0-24",
+    "version": "0.0.0",
+    "_id": "0-24@0.0.0",
+    "_npmVersion": "6.5.0",
+    "_nodeVersion": "10.13.0",
+    "_npmUser": {
+        "name": "chiaweilee",
+        "email": "ljw@Live.jp"
+    },
+    "dist": {
+        "integrity": "sha512-AYAtsjwX0kNabURvDizUBp83XPcw4TUS5gY0GVOP1ToXAgZOEJW6mj0YtT57hmPOYE9C77SzaGdl9w+GR0DAXQ==",
+        "shasum": "f0b228fe4f98df2de9741cb9753d7279bd6db452",
+        "tarball": "https://registry.npmjs.org/0-24/-/0-24-0.0.0.tgz",
+        "fileCount": 7,
+        "unpackedSize": 15382,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcGbDdCRA9TVsSAnZWagAAyiwP+gIOGq051iBuws/rtk/+\n9RVZx6qvWLlFkMjzYaGcTzsrPeQSOLbKs0P6AMWb0PFUrxFcefzz8BwuP1bR\nATzXbGifNQn2tQpRKHyk8IHTUNaCEXOe5mQYqffEFp1p3GSWIOu7e4LekMrm\nzReDPZtuYdSI8k4H+aDZ6DXQvRqZ1iJPyZQ3QJATfZCMtHkp352AQobAsg7w\n5dx3gBFvSsTyLTn/Sw8UV6ydDMlHQpOb7s9Jrdk+pxqb61Ex87nxgvKn58ys\nTDbb7kIN5fxM3J6qC6X8iRfOtruciVypq3YUnVtoE7aWZR1FlqtqO9zrCvD0\nzS0PS/22G5qCB7aViFeZRwNpZ5xECXZXg3sHaxnSE2d78dP3BHNuAMkTrwoK\naIYL6Ex0FG8i/J8RxDka27IAKltaWG3DUSmcOEfSG6/Hsa5MBC07HI48nPTC\nnfM2w92UehKttUXTzRbUn7FwX7qURmVbqiKRT2ml9Bgi5mUalqivxFzan7Nc\nD6U3944OviXcdwM3+db1GO1bGzlhmtP/Z+XppaDqV53xVwz0Ez/bSsidpdW+\ni9d77XC68HLfu2GR5L24hMC54P/9g/+wjZnFYnVR4LMRIYvGB+cIlVjriqcn\n7wt4os9lR3qfMsj+xsE4BRfW7Q7KIb70LiOmDVMWBdTjuvBG+MteZPuaHgAA\nDFz8\r\n=SAHi\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCNSdfw7Wu2nSZB6LP7oo+EeOkXEADnkwvVTFX81F9FhAIhALv9zDwI5GYON+rYkzAtthJG7JCoG+5I/oyho4ey15dd"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "chiaweilee",
+            "email": "ljw@Live.jp"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0-24_0.0.0_1545187549239_0.2581217219653493"
+    },
+    "_hasShrinkwrap": false
+}

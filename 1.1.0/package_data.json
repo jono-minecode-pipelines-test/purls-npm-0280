@@ -1,0 +1,70 @@
+{
+    "name": "0-logger",
+    "version": "1.1.0",
+    "description": "multi-functional logger",
+    "main": "src/logger.js",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/Madvinking/0-logger.git"
+    },
+    "author": {
+        "name": "Nir winkler",
+        "email": "madvinking@gmail.com"
+    },
+    "private": false,
+    "scripts": {
+        "clean": "rm -rf node_modules",
+        "test": "jest"
+    },
+    "dependencies": {
+        "json-colorizer": "^2.2.1",
+        "lodash.get": "4.4.2",
+        "lodash.isobject": "^3.0.2",
+        "lodash.set": "4.3.2",
+        "rough-object-size": "1.0.0",
+        "serialize-error": "^4.1.0",
+        "winston": "^3.2.1",
+        "winston-logzio": "^5.0.1"
+    },
+    "devDependencies": {
+        "jest": "^25.1.0"
+    },
+    "gitHead": "985146c2be306a147bc4ae9c338d6c7018b776df",
+    "bugs": {
+        "url": "https://github.com/Madvinking/0-logger/issues"
+    },
+    "homepage": "https://github.com/Madvinking/0-logger#readme",
+    "_id": "0-logger@1.1.0",
+    "_npmVersion": "6.4.1",
+    "_nodeVersion": "10.15.2",
+    "_npmUser": {
+        "name": "madvinking",
+        "email": "madvinking@gmail.com"
+    },
+    "dist": {
+        "integrity": "sha512-TnMA8xVsXeoLXmmrpAlb+N6JeOs0QFyDNQCmx5aUqVIwHBhdZp5cB6X49Z1vERlPw4sMbPYli7QUIGEyKJfNmQ==",
+        "shasum": "5759f7fdb9f608ea16619a331b7799e27338367e",
+        "tarball": "https://registry.npmjs.org/0-logger/-/0-logger-1.1.0.tgz",
+        "fileCount": 17,
+        "unpackedSize": 175458,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJeLqXUCRA9TVsSAnZWagAAtJQP/im6RV1JTU6gFVfUFkrJ\n1sdKecvtqjVV/YyMoRCeBAk3c61euSpG1teNikIZH5g33BqWhYXg5neUaqwN\nNiZrBeZ+aokLVCIUK5dPcskxwyKPkfrQBeooSJvDOGDzPUFRsXZyKR2jNUHW\nOF+V+a09DdZJQYmZRu3p5TGMvI6WqgJoFBFfHE1IOtRLQ0rSQUX8tyHSzMZo\nvLYehCh7Fm6XOEuSwGIPEpE/f8QfZ2Zp29AV0PpBNNVXuD/fzApg+WmQHDB9\n8uEGRM2IN1nzxul8lKg3jIZmGWvw9Ln6X16SYy/SovaTexJdxN2Vo0sLNktE\nSuos6/4IutqiVbxRDcQpiJatwP4nf/KPsVB5Sb7NtPgKuewLq1oBmfWy+eBE\n15bt8tXSqitPvf7gxSoKg0xVHR7TwndGw0fOsrv0biGvuy837fAbA7Qd4GkJ\naX41gVdL5qE2zQ4FZKfyPFa/L8ivlXtgaDFoYSiwWZV+Xjyz+za0/mVqgJ4j\nsrbkXVsQ9ozMDEU3vlSavMPMtiKQGYym9P7PrWxwJAFjYvVqEMWrezY0Ffx2\nJCjrF6rU9XcqHmN5LXiVz8UfJyxcQFQV+GwdMZ5ZmOo5cjZzLvpW/S63xnt2\nXjQeUPexyUOEvrvL0toslzG59pbsu6vtSgwpbYa4HUHRi980tTobWMO9En+8\nxek8\r\n=SJjM\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIEvup0gda/h2IDfD6rxCWOEyYCzG7iXQ8hlSdoqZOw8uAiEAzO0KmoYiGym1uiLqiEAeI6HdLUWEhqC1Nm/Jd35Lqw4="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "madvinking",
+            "email": "madvinking@gmail.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0-logger_1.1.0_1580115411853_0.41825645040665105"
+    },
+    "_hasShrinkwrap": false
+}
