@@ -1,0 +1,63 @@
+{
+    "name": "0-logger",
+    "version": "1.0.1",
+    "description": "multi-functional logger",
+    "main": "src/logger.js",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/Madvinking/0-logger.git"
+    },
+    "author": {
+        "name": "Nir winkler",
+        "email": "madvinking@gmail.com"
+    },
+    "private": false,
+    "scripts": {
+        "clean": "rm -rf node_modules"
+    },
+    "dependencies": {
+        "lodash": "^4.17.15",
+        "object-sizeof": "^1.5.2",
+        "serialize-error": "^5.0.0",
+        "winston": "^3.2.1",
+        "winston-logzio": "^5.0.3"
+    },
+    "gitHead": "94b27808eef0cb0f8108625ac100ef8910b538b2",
+    "bugs": {
+        "url": "https://github.com/Madvinking/0-logger/issues"
+    },
+    "homepage": "https://github.com/Madvinking/0-logger#readme",
+    "_id": "0-logger@1.0.1",
+    "_nodeVersion": "13.5.0",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-kGhSzrxqXYWhfAQKBRqJ1N2pvTTqrNaePR9uORPocqs9iKADsJdE5jq8Ca2qA2e4HFqXx6CUXtZDXpTt3KMDXw==",
+        "shasum": "e76038c3610497866ebb779b2a6d694ef5e2ecc7",
+        "tarball": "https://registry.npmjs.org/0-logger/-/0-logger-1.0.1.tgz",
+        "fileCount": 8,
+        "unpackedSize": 17741,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJeGK4FCRA9TVsSAnZWagAADqkQAIv+Jq7EmVU4/MZiuVoK\n+r5DaF59KQQzQAfMrCd95xpAzlt82VbkXDEUjDJtxH5grgYTwgHZ3rIxfLpZ\nzhv3vidA2tJi/ek+5pA00waySCoDTF8a4gqoRkLr+rnje9SVk0LJIko2Kvn2\n6LARUBNUrSXGvMqe6znz6cQrFq7UddxTZ1DHhcxUlzX7lWy6npRyZosHtAxi\nPIpZBFzg/Ngx5eaYXSnYg5HowQTF7X0Jk+ZAaTz18duoVvht3HA4/je16JYT\nBbgplPduh6FrlS2OCkffcFmE9rR9ekh5JbpJW1hGyv3pVEkeK++iWa00Z22O\nXCEr5UdKkpqW7TUJRyTM0GkspzZLiLGNxc68ymJVjGa8qHVZJGHGrU7Dr2PO\nISdERGBQjg+Aot6f6LejNL3cUIi4hBeclwXeVB1wVXhDBdiprs9qU6GVx1ms\nseVGhUWk9WXWImexsdCiVlyZb77j6yC51UJupcZ9aPlTOcV6iL43w7iOuzSI\n7nyfXrYMso9gA0KrlYMUmJeUdyVN+Qijikbp1FkAPA+9dXGJoPSF+5XQo5aj\nvvtbBi24FZgHbCdionFriiaRhfKLbzrL7baAyFT4s9QsH3lXN/nVzMBjbXBl\nt2E/vrRzlmo/lGujLkswUBMqYAvM5YCUrbRD+0wS7EYaBDvz7TGgJ5L+3e+Z\nSy01\r\n=kAFX\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCmmALSsBrDwpY3IOuLirgN5e842D3RV5nZWnzvoo/0CgIhANwSwoaNdgFwF/B8dbJXd8ipAr5fYo3vP3w8iJ+Vnucn"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "madvinking",
+            "email": "madvinking@gmail.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "madvinking",
+        "email": "madvinking@gmail.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0-logger_1.0.1_1578675716990_0.3676921579558692"
+    },
+    "_hasShrinkwrap": false
+}
